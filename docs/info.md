@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+By setting the CS0 and CS1 inputs as a binary combination between 0 and 3, the circuit's operation is selected; depending on the binary number formed by the CS bits, it will function as AND, OR, XOR or NAND respectively.
 
 ## How to test
 
@@ -17,4 +17,5 @@ Explain how to use your project
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Dip switch 4
+Led

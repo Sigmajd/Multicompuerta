@@ -13,7 +13,7 @@ By setting the CS0 and CS1 inputs as a binary combination between 0 and 3, the c
 
 ## How to test
 
-Explain how to use your project
+By setting the CS0 and CS1 inputs as a binary combination between 0 and 3, the circuit's operation is selected; depending on the binary number formed by the CS bits, it will function as AND, OR, XOR or NAND respectively.
 
 ## External hardware
 
